@@ -1,0 +1,9 @@
+# Executables
+*.exe
+
+# Compiled objects
+*.o
+*.out
+
+# Debug / temp
+*.log
